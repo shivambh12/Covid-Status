@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingLeft="40dp"
+    android:paddingRight="40dp"
+    android:paddingTop="20dp">
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       app:layout_constraintTop_toTopOf="parent"
+       android:gravity="left"
+       tools:ignore="MissingConstraints">
+       <TextView
+           android:id="@+id/statename"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:hint="Uttar Pradesh"
+           android:textStyle="bold"
+           android:textSize="18sp"
+           />
+       <LinearLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal"
+           >
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="Confirmed Cases: "
+               />
+
+           <TextView
+               android:id="@+id/confirmedcases"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:hint="Uttar Pradesh"
+               android:textColor="#F60707"
+               android:textSize="16sp"
+               android:textStyle="bold" />
+       </LinearLayout>
+       </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

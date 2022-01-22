@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585147645568",
+    "project_id": "covid-status-ab79b",
+    "storage_bucket": "covid-status-ab79b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585147645568:android:4698427b887d4f33a23065",
+        "android_client_info": {
+          "package_name": "com.example.covidstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585147645568-7s5qfh2kveekevhbf7gtjo9tnalf8iig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0LST6m1yni4T8o8WQIdBjvdZv5lhbpLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585147645568-7s5qfh2kveekevhbf7gtjo9tnalf8iig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
