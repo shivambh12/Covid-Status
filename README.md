@@ -6,6 +6,12 @@ Also,user can search the state and logout from app.
 1. Used MVVM Architecture.
 2. Used Coroutines, Recyclerview with DifferUtil and Retrofit2 for Api Calls.
 
+# Video
+https://user-images.githubusercontent.com/89182224/150628031-6755856e-517c-4bc8-8793-a2d171712d6e.mp4
+
+# App Link
+https://drive.google.com/file/d/15qCsZ2w9z54_nRrCTHu4FbK6KpOE-keV/view?usp=sharing
+
 # ScreenShots
 
 ![Screenshot_2022-01-22-11-49-34-19_e8428f1d096fe7d0db34d4a2ad3be9a0](https://user-images.githubusercontent.com/89182224/150627881-56fbdfcd-d0ab-488a-8ce1-7d5fd0bd017b.jpg)
